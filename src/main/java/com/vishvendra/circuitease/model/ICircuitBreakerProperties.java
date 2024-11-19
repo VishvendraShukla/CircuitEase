@@ -1,4 +1,4 @@
-package com.circuitease.model;
+package com.vishvendra.circuitease.model;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreakerConfig;
 import io.github.resilience4j.timelimiter.TimeLimiterConfig;

@@ -1,4 +1,4 @@
-package com.circuitease;
+package com.vishvendra.circuitease;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

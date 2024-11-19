@@ -1,8 +1,8 @@
-package com.circuitease.config;
+package com.vishvendra.circuitease.config;
 
-import com.circuitease.annotation.CircuitBreakerConfiguration;
-import com.circuitease.model.AppliedCircuitBreakerProperties;
-import com.circuitease.model.ICircuitBreakerProperties;
+import com.vishvendra.circuitease.annotation.CircuitBreakerConfiguration;
+import com.vishvendra.circuitease.model.AppliedCircuitBreakerProperties;
+import com.vishvendra.circuitease.model.ICircuitBreakerProperties;
 import io.github.resilience4j.circuitbreaker.CircuitBreakerRegistry;
 import io.github.resilience4j.timelimiter.TimeLimiterRegistry;
 import jakarta.annotation.PostConstruct;

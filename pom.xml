@@ -9,7 +9,7 @@
     <version>3.3.4</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com</groupId>
+  <groupId>com.vishvendra</groupId>
   <artifactId>curcuitease</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>CircuitEase</name>

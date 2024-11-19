@@ -1,4 +1,4 @@
-package com.circuitease.executorservice;
+package com.vishvendra.circuitease.executorservice;
 
 import io.github.resilience4j.circuitbreaker.CircuitBreaker;
 import io.github.resilience4j.circuitbreaker.CircuitBreakerRegistry;

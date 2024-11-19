@@ -1,6 +1,6 @@
-package com.circuitease.annotation;
+package com.vishvendra.circuitease.annotation;
 
-import com.circuitease.model.ICircuitBreakerProperties;
+import com.vishvendra.circuitease.model.ICircuitBreakerProperties;
 import org.springframework.stereotype.Component;
 
 import java.lang.annotation.*;

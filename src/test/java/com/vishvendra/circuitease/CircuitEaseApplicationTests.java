@@ -1,4 +1,4 @@
-package com.circuitease;
+package com.vishvendra.circuitease;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
