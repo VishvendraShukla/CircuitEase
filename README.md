@@ -41,3 +41,5 @@ mvn clean install
 ```
 
 ### [Instructions for usage](INSTRUCTIONS.md)
+
+For more information or support, please contact me at shukla.vishvendra14@gmail.com.
