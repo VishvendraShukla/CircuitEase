@@ -39,3 +39,5 @@ cd /path/to/circuitease
 
 mvn clean install
 ```
+
+### [Instructions for usage](INSTRUCTIONS.md)
